@@ -1,0 +1,148 @@
+body {
+
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container {
+
+    width: 375px;
+    height: 600px;
+    background-color: hsl(216, 50%, 16%);
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+
+    border-radius: 15px; 
+    margin-top: 20px;
+    
+}
+
+h1 {
+
+    font-family: 'Outfit', sans-serif;
+    color: hsl(0, 0%, 100%);
+    margin-top: 370px;
+    margin-right: 120px;
+    position: absolute;
+    font-size: x-large;
+}
+
+h2 {
+
+  
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300; 
+    font-size: 18px; 
+    color:  hsl(215, 51%, 70%);
+    margin-top: 420px;
+    margin-right: 40px;
+    position: absolute;
+    line-height: 25px;
+}
+
+
+
+
+
+.eth {
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300; 
+    font-size: 15px; 
+    color:  hsl(178, 100%, 50%);
+    margin-top: 490px;
+    margin-right: 240px;
+    position: absolute;
+    align-items: center;
+   
+}
+
+h3 {
+
+    margin-left: 30px;
+    margin-top: -1px;
+   
+   
+}
+
+svg {
+
+    position: absolute;
+    margin-left: 10px;
+   
+}
+
+h4 {
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300; 
+    font-size: 15px; 
+    color:  hsl(215, 51%, 70%);
+    position: absolute;
+    margin-top: 491px;
+    margin-left: 265px;
+   
+
+}
+
+.clock {
+
+ 
+
+ margin-left: 130px;
+ margin-top: 492px;
+ position: absolute;
+ 
+}
+
+hr {
+
+    width: 300px;
+    background-color: hsl(215, 32%, 27%);
+    height: 1px;
+    border:none;
+    margin: auto;
+    margin-top: 530px;
+    position: absolute;
+}
+
+h5 {
+
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    position: absolute;
+    font-size: 13px;
+    margin-top: 555px;
+    margin-right: 160px;
+
+
+}
+
+h6 {
+
+    font-family: 'Outfit', sans-serif;
+    color: hsl(178, 100%, 50%);
+    position: absolute;
+    font-size: 13px;
+    margin-top: 553px;
+    margin-right: -10px;
+    font-size: 15px;
+
+
+}
+
+
+
+.avatar {
+
+    position: absolute;
+    margin-top: 525px;
+    margin-right: 290px;
+    
+}
